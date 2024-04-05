@@ -44,6 +44,16 @@ body {
   background: var(--dark-clr);
 }
 
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav ul {
+  display: flex;
+  gap: 16px;
+}
+
 .header-logo {
   font-size: 24px;
   color: var(--white-clr);
@@ -58,4 +68,11 @@ body {
 .hero-paragraph {
   font-size: 18px;
   color: var(--secondary-clr);
+}
+
+/* Utility classes */
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
 }
