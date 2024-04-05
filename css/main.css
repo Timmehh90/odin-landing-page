@@ -37,3 +37,25 @@ a {
 body {
   font-family: Roboto, sans-serif;
 }
+
+/* Hero section */
+
+.hero {
+  background: var(--dark-clr);
+}
+
+.header-logo {
+  font-size: 24px;
+  color: var(--white-clr);
+}
+
+.hero-header {
+  font-size: 48px;
+  font-weight: bolder;
+  color: var(--white-clr);
+}
+
+.hero-paragraph {
+  font-size: 18px;
+  color: var(--secondary-clr);
+}
