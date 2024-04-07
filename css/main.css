@@ -104,6 +104,8 @@ p.img-placeholder {
 
 .cards-section h2 {
   color: var(--dark-clr);
+  font-size: 38px;
+  font-weight: 800;
 }
 
 .card-text {
