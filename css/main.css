@@ -99,6 +99,17 @@ p.img-placeholder {
   opacity: 1;
 }
 
+/* Some random information section */
+
+.cards-section h2 {
+  color: var(--dark-clr);
+}
+
+.card-text {
+  color: var(--dark-clr);
+  font-weight: 300;
+}
+
 /* Utility classes */
 
 .container {
@@ -116,4 +127,10 @@ p.img-placeholder {
   border: none;
   font-weight: 700;
   font-size: 18px;
+}
+
+/* Text */
+
+.text-center {
+  text-align: center;
 }
