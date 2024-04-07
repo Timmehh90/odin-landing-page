@@ -173,6 +173,17 @@ p.img-placeholder {
   padding: 3rem;
 }
 
+/* Footer */
+
+.footer {
+  padding: 50px 0;
+}
+
+.footer-text {
+  font-size: 18px;
+  font-weight: var(--font-weight-thin);
+}
+
 /* Utility classes */
 
 .container-sm {
