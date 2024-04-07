@@ -220,6 +220,7 @@ p.img-placeholder {
 
 .bg-dark {
   background: var(--dark-clr);
+  color: var(--white-clr);
 }
 
 .bg-grey {
@@ -228,5 +229,5 @@ p.img-placeholder {
 
 .bg-accent {
   background: var(--accent-clr);
-  color: #ffffff;
+  color: var(--white-clr);
 }
