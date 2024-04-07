@@ -83,15 +83,17 @@ body {
 
 .hero-img {
   width: 50%;
+  background: rgba(151, 151, 151, 0.75);
 }
 
 p.img-placeholder {
-  background: #c4c4c4;
   color: var(--white-clr);
-  text-align: center;
-  width: 80%;
-  height: 80%;
-  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
 }
 
 /* Utility classes */
