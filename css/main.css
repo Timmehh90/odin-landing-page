@@ -160,6 +160,8 @@ p.img-placeholder {
   padding: 100px 0;
 }
 
+/* Call to action section */
+
 /* Utility classes */
 
 .container-sm {
@@ -201,4 +203,9 @@ p.img-placeholder {
 
 .bg-grey {
   background: var(--secondary-clr);
+}
+
+.bg-accent {
+  background: var(--accent-clr);
+  color: #ffffff;
 }
