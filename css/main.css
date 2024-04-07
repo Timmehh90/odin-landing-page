@@ -106,6 +106,7 @@ p.img-placeholder {
   color: var(--dark-clr);
   font-size: 38px;
   font-weight: 800;
+  margin: 50px 0;
 }
 
 .card-text {
