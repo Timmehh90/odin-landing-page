@@ -112,6 +112,25 @@ p.img-placeholder {
 .card-text {
   color: var(--dark-clr);
   font-weight: var(--font-weight-thin);
+  width: 70%;
+}
+
+.card-box {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 25%;
+}
+
+.card-img {
+  border: var(--accent-clr) solid 4px;
+  border-radius: 20px;
+  width: 180px;
+  height: 180px;
 }
 
 /* Utility classes */
