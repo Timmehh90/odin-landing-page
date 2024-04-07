@@ -42,7 +42,6 @@ body {
 /* Hero section */
 
 .hero {
-  background: var(--dark-clr);
   padding-bottom: 100px;
 }
 
@@ -172,4 +171,14 @@ p.img-placeholder {
 
 .text-center {
   text-align: center;
+}
+
+/* Backgrounds */
+
+.bg-dark {
+  background: var(--dark-clr);
+}
+
+.bg-grey {
+  background: var(--secondary-clr);
 }
