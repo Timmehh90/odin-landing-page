@@ -135,6 +135,11 @@ p.img-placeholder {
 
 /* Utility classes */
 
+.container-sm {
+  width: 850px;
+  margin: 0 auto;
+}
+
 .container {
   width: 1024px;
   margin: 0 auto;
