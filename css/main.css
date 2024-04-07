@@ -163,6 +163,16 @@ p.img-placeholder {
 
 /* Call to action section */
 
+.call-to-action {
+  margin: 100px 0;
+}
+
+.call-to-action-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+}
+
 /* Utility classes */
 
 .container-sm {
