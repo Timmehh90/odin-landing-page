@@ -190,6 +190,10 @@ p.img-placeholder {
   background: var(--accent-clr);
 }
 
+.btn-white-border {
+  border: #ffffff solid 2px;
+}
+
 /* Text */
 
 .text-center {
