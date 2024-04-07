@@ -140,6 +140,26 @@ p.img-placeholder {
   height: 180px;
 }
 
+/* Quote Section */
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  color: var(--dark-clr);
+  font-weight: var(--font-weight-thin);
+}
+
+.quote-author {
+  font-size: 24px;
+  font-weight: 800;
+  text-align: right;
+  width: 90%;
+}
+
+.quote-box {
+  padding: 100px 0;
+}
+
 /* Utility classes */
 
 .container-sm {
