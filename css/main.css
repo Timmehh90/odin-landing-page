@@ -54,7 +54,7 @@ body {
 
 .nav ul {
   display: flex;
-  gap: 16px;
+  gap: 32px;
 }
 
 .header-logo {
