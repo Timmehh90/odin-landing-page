@@ -8,6 +8,7 @@
   --white-clr: #f9faf8;
   --secondary-clr: #e5e7eb;
   --accent-clr: #3882f6;
+  --font-weight-thin: 300;
 }
 
 /* CSS reset */
@@ -71,7 +72,7 @@ body {
 .hero-paragraph {
   font-size: 18px;
   color: var(--secondary-clr);
-  font-weight: 300;
+  font-weight: var(--font-weight-thin);
   width: 87%;
   margin-bottom: 1rem;
 }
@@ -107,7 +108,7 @@ p.img-placeholder {
 
 .card-text {
   color: var(--dark-clr);
-  font-weight: 300;
+  font-weight: var(--font-weight-thin);
 }
 
 /* Utility classes */
