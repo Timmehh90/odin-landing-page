@@ -9,6 +9,7 @@
   --secondary-clr: #e5e7eb;
   --accent-clr: #3882f6;
   --font-weight-thin: 300;
+  --border-radius: 10px;
 }
 
 /* CSS reset */
@@ -178,7 +179,7 @@ p.img-placeholder {
 
 .btn {
   padding: 10px 35px;
-  border-radius: 10px;
+  border-radius: var(--border-radius);
   border: none;
   font-weight: 700;
   font-size: 18px;
