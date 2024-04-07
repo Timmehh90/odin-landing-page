@@ -42,6 +42,7 @@ body {
 
 .hero {
   background: var(--dark-clr);
+  padding-bottom: 100px;
 }
 
 .nav {
@@ -70,6 +71,27 @@ body {
 .hero-paragraph {
   font-size: 18px;
   color: var(--secondary-clr);
+}
+
+.hero-content {
+  display: flex;
+}
+
+.hero-call-to-action {
+  width: 50%;
+}
+
+.hero-img {
+  width: 50%;
+}
+
+p.img-placeholder {
+  background: #c4c4c4;
+  color: var(--white-clr);
+  text-align: center;
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
 }
 
 /* Utility classes */
