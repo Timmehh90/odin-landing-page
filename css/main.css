@@ -200,6 +200,12 @@ p.img-placeholder {
   text-align: center;
 }
 
+/* Border radius */
+
+.border-radius {
+  border-radius: var(--border-radius);
+}
+
 /* Backgrounds */
 
 .bg-dark {
